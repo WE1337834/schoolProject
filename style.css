@@ -1,0 +1,16 @@
+.List{
+  border: 2px solid black;
+  border-radius: 20px;
+  background: lightgrey;
+  padding: 20px;
+}
+.List__title{
+  font-size: 35px;
+}
+.List__list{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  font-size: 20px;
+  font-family: Arial;
+}
